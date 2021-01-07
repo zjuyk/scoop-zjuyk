@@ -1,0 +1,16 @@
+{
+	"homepage": "https://github.com/feeluown",
+	"description": "一个可以折腾、好用的音乐播放器。",
+	"license": "GPL-3.0",
+	"version": "3.5.1",
+	"url": "https://github.com/feeluown/distribution/releases/download/v3.5.1/FeelUOwn-Win64.zip",
+	"hash": "md5:0d5ee816bd4cea883a024f4d23fb1cd0",
+	"bin": "feeluown.exe",
+	"shortcuts": [
+		[
+			"feeluown",
+			"feeluown.exe",
+			"FeelUOwn"
+		]
+	]
+}
