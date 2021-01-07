@@ -5,7 +5,7 @@
     "description": "一款使用CSharp编写的 Windows 10 数字权利激活工具。",
 	"license": "GPL-2.0",
     "url": "https://github.com/TGSAN/CMWTAT_Digital_Edition/releases/download/2.5.0.0/CMWTAT_Digital_Release_2_5_0_0.exe",
-    "hash": "36b3330b471eb5a257a93e45cc3b37f7",
+    "hash": "md5:36b3330b471eb5a257a93e45cc3b37f7",
 	"bin": "cmwtat.exe",
     "shortcuts": [
         [
