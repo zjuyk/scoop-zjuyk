@@ -1,0 +1,23 @@
+{
+    "homepage": "https://cmwtat.cloudmoe.com",
+    "version": "2.5.0.0",
+    "release_version": "2_5_0_0",
+    "description": "一款使用CSharp编写的 Windows 10 数字权利激活工具。",
+    "url": "https://github.com/TGSAN/CMWTAT_Digital_Edition/releases/download/2.5.0.0/CMWTAT_Digital_Release_2_5_0_0.exe",
+    "hash": "36b3330b471eb5a257a93e45cc3b37f7",
+    "shortcuts": [
+        [
+            "cmwtat",
+            "CMWTAT",
+            "cmwtat.exe"
+        ]
+    ],
+    "checkver": {
+        "url": "https://github.com/TGSAN/CMWTAT_Digital_Edition/releases/download",
+        "re": "([d.]+)/CMWTAT_Digital_Release_([d_]+).exe"
+    },
+    "autoupdate": {
+        "url": "https://github.com/TGSAN/CMWTAT_Digital_Edition/releases/download/$version/CMWTAT_Digital_Release_$release_version.exe"
+    }
+
+}
