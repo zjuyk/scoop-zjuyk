@@ -5,14 +5,16 @@
     "license": "GPL-3.0",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/feeluown/distribution/releases/download/v$version/FeelUOwn-Win64.zip",
+            "url": "https://github.com/feeluown/distribution/releases/download/v3.7.10/FeelUOwn-Win64.zip",
             "hash": "71e20a8216ee21553ae92e2b293b9538ebfe69d54928712b54cc927f3ece899d"
         }
     },
     "bin": "feeluown/feeluown.exe",
     "shortcuts": [
-        "feeluown/feeluown.exe",
-        "feeluown"
+        [
+            "feeluown/feeluown.exe",
+            "feeluown"
+        ]
     ],
     "autoupdate": {
         "architecture": {
