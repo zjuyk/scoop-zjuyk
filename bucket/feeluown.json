@@ -1,0 +1,24 @@
+{
+    "version": "3.7.10",
+    "description": "一个可以折腾、好用的音乐播放器",
+    "homepage": "http://feeluown.readthedocs.io/",
+    "license": "GPL-3.0",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/feeluown/distribution/releases/download/v$version/FeelUOwn-Win64.zip",
+            "hash": "71e20a8216ee21553ae92e2b293b9538ebfe69d54928712b54cc927f3ece899d"
+        }
+    },
+    "bin": "feeluown/feeluown.exe",
+    "shortcuts": [
+        "feeluown/feeluown.exe",
+        "feeluown"
+    ],
+    "autoupdate": {
+        "architecture": {
+            "64bit": {
+                "url": "https://github.com/feeluown/distribution/releases/download/v$version/FeelUOwn-Win64.zip"
+            }
+        }
+    }
+}
