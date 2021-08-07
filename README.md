@@ -1,8 +1,8 @@
-![](./banner.png)
+![](banner.png)
 
 <div align="center">
 A personal scoop bucket for [scoop](https://scoop.sh)
-<div>
+</div>
 
 ![scoop-zjuyk](https://github.com/zjuyk/scoop-zjuyk/actions/workflows/schedule.yml/badge.svg)
 
