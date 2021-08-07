@@ -1,8 +1,6 @@
-![](banner.png)
-
-<div align="center">
+<p align="center">
 A personal scoop bucket for [scoop](https://scoop.sh)
-</div>
+</p>
 
 ![scoop-zjuyk](https://github.com/zjuyk/scoop-zjuyk/actions/workflows/schedule.yml/badge.svg)
 
@@ -24,9 +22,9 @@ scoop install zjuyk/<pkgname>
 
 - Hash check failed or Need some other apps
 
-Please open an [issue](https://github.com/zjuyk/scoop-zjuyk/issues)!
+    Please open an [issue](https://github.com/zjuyk/scoop-zjuyk/issues)!
 
 - Some apps are outdated
 
-Welcome to be a contributor! Fork and open a Pull Request.
+    Welcome to be a contributor! Fork and open a Pull Request.
 
