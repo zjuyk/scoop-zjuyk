@@ -1,8 +1,16 @@
+
+<h1 align="center">
+    A Personal Scoop Bucket 
+</h1>
 <p align="center">
-A personal scoop bucket for [scoop](https://scoop.sh)
+<a href="https://github.com/zjuyk/scoop-zjuyk/branch/master"><img src="https://img.shields.io/github/workflow/status/zjuyk/scoop-zjuyk/Excavator/master" /></a>
+<a href="https://github.com/chawyehsu/dorado/blob/master/LICENSE"><img src="https://img.shields.io/github/license/chawyehsu/dorado.svg?style=flat" /></a>
+<a href="https://www.microsoft.com/en-us/windows"><img src="https://img.shields.io/badge/Target-Windows%2010-0067B8.svg?style=flat" /></a>
+<a href=""><img = src="https://img.shields.io/github/repo-size/zjuyk/scoop-zjuyk" /></a>
 </p>
 
-![scoop-zjuyk](https://github.com/zjuyk/scoop-zjuyk/actions/workflows/schedule.yml/badge.svg)
+
+
 
 ### How to use?
 
